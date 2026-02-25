@@ -308,16 +308,6 @@ We welcome contributions! Please:
 - **Sentinel-2:** CC BY-SA 3.0 IGO
 - **NOAA Data:** Public Domain
 
----
-
-## Contributors
-
-- **[Your Name]** — Lead Developer & Researcher
-- **[Professor Name]** — Advisor/PI
-- **Contributors:** [List any collaborators]
-
----
-
 ## Contact & Support
 ---
 
@@ -351,3 +341,4 @@ galanks@sunypoly.edu
 **Status:** Active Development  
 
 **Version:** 1.0.0
+
