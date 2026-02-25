@@ -319,11 +319,6 @@ We welcome contributions! Please:
 ---
 
 ## Contact & Support
-
-- **Email:** [your.email@university.edu]
-- **GitHub Issues:** [Project Issues Page](https://github.com/[YOUR_USERNAME]/Adirondack_Landslide_Mapping/issues)
-- **Documentation:** See [docs/](docs/) folder
-
 ---
 
 Acknowledgements
@@ -331,6 +326,7 @@ This research was conducted at SUNY Polytechnic Institute.
 Special thanks to OpenAI's GPT-4 for research.
 
 Contact
+
 Asif Ahmed Asif Ahmed, Ph.D., P.E.
 Assistant Professor
 College of Engineering
@@ -353,4 +349,5 @@ galanks@sunypoly.edu
 
 **Last Updated:** February 2026  
 **Status:** Active Development  
+
 **Version:** 1.0.0
